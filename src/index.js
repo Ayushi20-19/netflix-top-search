@@ -5,7 +5,7 @@ import Card from './Card';
 ReactDOM.render(
  <>
    <Card imgsrc=""
-     title="Netflix"
+     title="Netflix Original"
      sname="Vampire Diaries"
      link=""
    />
