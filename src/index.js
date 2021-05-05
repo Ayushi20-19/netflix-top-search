@@ -1,34 +1,26 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Card from './Card';
+import Sdata from './Sdata';
+
+// function ncard(val, inde){
+ 
+// }
 
 ReactDOM.render(
  <>
-   <Card imgsrc=""
-     title="Netflix Original"
-     sname="Vampire Diaries"
-     link=""
+   <h1>
+     List of top Netflix Series
+   </h1>
+   {Sdata.map((val) => {
+   return(
+    <Card imgsrc={val.imgsrc}
+     title={val.title}
+     sname={val.sname}
+     link={val.links}
    />
-    <Card imgsrc=""
-     title="Netflix"
-     sname="Dark"
-     link=""
-   />
-    <Card imgsrc=""
-     title="Netflix"
-     sname="F.R.I.E.N.D.S"
-     link=""
-   />
-    <Card imgsrc=""
-     title="Netflix"
-     sname="Nauruto"
-     link=""
-   />
-    <Card imgsrc=""
-     title=""
-     sname=""
-     link=""
-   />
+    );
+   })};
  </>,
   document.getElementById('root')
 );
