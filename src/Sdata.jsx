@@ -1,52 +1,52 @@
 const Sdata = [
     {
         sname: "F.R.I.E.N.D.S",
-        imgsrc: " ",
+        imgsrc: "https://wallpaperaccess.com/full/782186.jpg ",
         title:"",
         links:"",     
 
 },
 {
     sname: "F.R.I.E.N.D.S",
-    imgsrc: " ",
+    imgsrc: "https://wallpaperaccess.com/full/782186.jpg ",
     title:"",
     links:"",     
 
 },
 {
     sname: "F.R.I.E.N.D.S",
-    imgsrc: " ",
+    imgsrc: "https://wallpaperaccess.com/full/782186.jpg ",
     title:"",
     links:"",     
 
 },
 {
     sname: "F.R.I.E.N.D.S",
-    imgsrc: " ",
+    imgsrc: "https://wallpaperaccess.com/full/782186.jpg ",
     title:"",
     links:"",     
 
 },{
     sname: "F.R.I.E.N.D.S",
-    imgsrc: " ",
+    imgsrc: "https://wallpaperaccess.com/full/782186.jpg ",
     title:"",
     links:"",     
 
 },{
     sname: "F.R.I.E.N.D.S",
-    imgsrc: " ",
+    imgsrc: "https://wallpaperaccess.com/full/782186.jpg ",
     title:"",
     links:"",     
 
 },{
     sname: "F.R.I.E.N.D.S",
-    imgsrc: " ",
+    imgsrc: "https://wallpaperaccess.com/full/782186.jpg ",
     title:"",
     links:"",     
 
 },{
     sname: "F.R.I.E.N.D.S",
-    imgsrc: " ",
+    imgsrc: "https://wallpaperaccess.com/full/782186.jpg ",
     title:"",
     links:"",     
 

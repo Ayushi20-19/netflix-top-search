@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Card from './Card';
 import Sdata from './Sdata';
+import './App.css';
 
 // function ncard(val, inde){
  
@@ -9,7 +10,7 @@ import Sdata from './Sdata';
 
 ReactDOM.render(
  <>
-   <h1>
+   <h1 className="heading_style">
      List of top Netflix Series
    </h1>
    {Sdata.map((val) => {

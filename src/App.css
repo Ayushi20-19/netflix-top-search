@@ -1,16 +1,15 @@
   
-*{box-sizing: border-box; padding: 0; margin: 0; background-color: #291012;}
+*{box-sizing: border-box; padding: 0; margin: 0; background-color: #dae8ee;}
 
 .heading_style {
   padding: 30px 0;
   text-align: center;
-  text-transform: capitalize;
-  /* font-size: 13px; */
+  text-transform: capitalize;  
   letter-spacing: 2px;
   font-weight: 500;
   color: #868686;
   background-color: #fff;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   margin-bottom: 30px;
 }
 
